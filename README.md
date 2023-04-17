@@ -1,4 +1,4 @@
-# Face editing with Style GAN 2 and facial segmentation (Ceteris Paribus Face Challenge Intercentrales 2022)
+# Face editing with Style GAN 2
 
 [![Release](https://img.shields.io/github/v/release/valentingol/gan-face-editing)](https://github.com/valentingol/gan-face-editing/releases)
 ![PythonVersion](https://img.shields.io/badge/python-3.7%20%7C%203.8%20%7C%203.9%20%7C%203.10-informational)
