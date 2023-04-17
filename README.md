@@ -10,7 +10,7 @@
 [![Isort](https://github.com/valentingol/gan-face-editing/actions/workflows/isort.yaml/badge.svg)](https://github.com/valentingol/gan-face-editing/actions/workflows/isort.yaml)
 [![PyLint](https://img.shields.io/endpoint?url=https://gist.githubusercontent.com/valentingol/c60e6ce49447254be085193c99b8425b/raw/gan_face_editing_pylint_badge.json)](https://github.com/valentingol/gan-face-editing/actions/workflows/pylint.yaml)
 
-**NOTE** : This is work based on the winner team repository of Inter-Centrales 2022 AI competition: Ceteris Paribus Face Challenge: [site of the competition](https://transfer-learning.org/competition.html) plus the work of the second team composed by Thibault Le Sellier De Chezelles and Hédi Razgallah (original work can be found [here](https://github.com/HediRaz/InterCentrales).
+**NOTE** : This is work based on publishe paper found [here](https://github.com/NVlabs/stylegan).
 
 
 ## Quick Start
